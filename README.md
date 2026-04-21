@@ -61,7 +61,7 @@ Since this project uses Google Sheets as a database, you must set it up first.
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/pharmacist-sabot/smart-adr.git
+    git clone https://github.com/suradet-ps/smart-adr.git
     cd smart-adr
     ```
 
